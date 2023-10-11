@@ -6,12 +6,17 @@ contributor:
     alias: Frewer, Ellen E.
     gutenberg_agent_id: '2984'
     url: http://www.gutenberg.org/2009/agents/2984
+covers:
+- cover_type: archival
+  image_path: 71622-h/images/cover.jpg
 creator:
   author:
     agent_name: Schweinfurth, Georg
     gutenberg_agent_id: '56305'
     url: http://www.gutenberg.org/2009/agents/56305
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71622#The-heart-of-Africa-Vol-II-of-2
 gutenberg_issued: '2023-09-12'
 identifiers:
   gutenberg: '71622'
